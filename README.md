@@ -37,8 +37,8 @@
 <br/>
 
 <a href="https://github.com/cleverCoader">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=green-code-developer&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=green-code-developer&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleverCoader&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleverCoader&theme=buefy&layout=compact" />
 </a>
 
 <br/>
